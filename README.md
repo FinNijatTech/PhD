@@ -11,5 +11,5 @@ This four-year project will culminate in a refined, real-time tool that benefits
 Datasources:
 macroeconomic: [FRED](https://fred.stlouisfed.org/)
 financial: [Yahoo Fiannce](https://finance.yahoo.com/)
-news: [NewsCatcherAPI](https://www.newscatcherapi.com/)
+news: [NewsCatcherAPI](https://www.newscatcherapi.com/), [NewsAPI](https://newsapi.org/)
 social media: [X](https://x.com/)
